@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="ChatApplication1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ChtApp/out/production/ChatApplication1/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ChtApp/out/production/ChatApplication1/jakarta.mail-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ChtApp/out/production/ChatApplication1/javax.mail-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ChtApp/out/production/ChatApplication1/javax.activation-api-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ChtApp/out/production/ChatApplication1/javax.mail.jar!/" />
+      <root url="file://$PROJECT_DIR$/../openjfx-23.0.2_windows-x64_bin-sdk/javafx-sdk-23.0.2/lib" />
+      <root url="file://$PROJECT_DIR$/bcprov-jdk15to18-1.76" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../openjfx-23.0.2_windows-x64_bin-sdk/javafx-sdk-23.0.2/lib" recursive="false" />
+  </library>
+</component>
